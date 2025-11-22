@@ -1,4 +1,5 @@
-## LEARNING PYTHON
+### LEARNING PYTHON
+## PHASE 1(PYTHON BASIC)
 # learn1.py
 - here you learn on how to ask an input and to print it
 - for example i am using name and age and then print them out
@@ -10,3 +11,6 @@
 
 # learn3.py
 - her we convert degree celcius into fahrenheit
+
+# learn4.py
+- her we learn how to check a number if is even or odd
