@@ -7,3 +7,6 @@
 - here i am asking the user to enter two numbers, then select an operation.
 - if the user doesnt select an operation if tells him
 - after the user has entered the correct details it will do calculations according to the operation he/she selected
+
+# learn3.py
+- her we convert degree celcius into fahrenheit
