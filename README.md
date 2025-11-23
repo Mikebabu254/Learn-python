@@ -16,4 +16,4 @@
 - her we learn how to check a number if is even or odd
 
 ### learn5.py
-- her we will learn how to reverse a string without using in built function
+- her we will learn how to reverse a string without using in built python function
