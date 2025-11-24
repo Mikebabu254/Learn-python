@@ -1,6 +1,7 @@
 name = "apple"
 
-n = ""
+na = ""
 
-for names in name:
-    print(name+n)
+for char in name:
+    na = char + na
+    print (na)
